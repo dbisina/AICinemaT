@@ -2046,23 +2046,7 @@ def retrain_style_model(creator_id):
 - “In the Blink of an Eye” by Walter Murch
 - “The Technique of Film Editing” by Karel Reisz
 
------
 
-### C. Contact & Support
-
-**For Team:**
-
-- Project lead: [Your name]
-- Technical questions: [Email/Slack]
-- Weekly sync: [Day/time]
-
-**For Stakeholders:**
-
-- Weekly updates: [Day]
-- Demo schedule: End of weeks 4, 8, 12
-- Feedback channel: [Email/form]
-
------
 
 ## Document Change Log
 
